@@ -68,4 +68,4 @@ youtube.com##ytd-rich-item-renderer:has(#video-title-link[title*="Mix"][href$="s
 ! Removes Mixes from the right side panel
 youtube.com##ytd-compact-radio-renderer
 ! Removes Mixes from search results
-youtube.com##ytd-radio-renderer```
+youtube.com##ytd-radio-renderer
