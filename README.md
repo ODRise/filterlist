@@ -27,8 +27,7 @@ Build-in
   + Easylist Germany
 
 + Custom
-  + [FMHY Unsage sites](https://github.com/WindowsAurora/FMHYFilterlist)
-  + [Actually Legitimate URL Shortener Tool](https://github.com/DandelionSprout/adfilt/discussions/163)
+  + [FMHY Unsage sites](https://github.com/fmhy/FMHYFilterlist)
 
  
 
