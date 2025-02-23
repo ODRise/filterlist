@@ -1,5 +1,4 @@
 # Filterlist uBo
-Folgende Filter nutze ich:
 
 Build-in
 
