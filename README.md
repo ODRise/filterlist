@@ -29,6 +29,9 @@ Build-in
 + Custom
   + [FMHY Unsage sites](https://github.com/fmhy/FMHYFilterlist)
   + [Yokoffing filterlist](https://github.com/yokoffing/filterlists)
+  + [Actually Legitimate URL Shortener Tool](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)
+  + [Browse websites without logging in](https://github.com/DandelionSprout/adfilt/blob/master/BrowseWebsitesWithoutLoggingIn.txt)
+  + [Dandelion Sprout's Anti-Malware List](https://github.com/DandelionSprout/adfilt/blob/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt)
 
  
 
